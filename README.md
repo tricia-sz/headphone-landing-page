@@ -1,7 +1,7 @@
-# 🐝 Colmeia Test 🐝
+# 🎧 TRX Headphone - Landingpage🎧
 
 <div align="center">
-<img src="https://github.com/tricia-sz/colmeia/blob/main/.gitassets/capa.png?raw=true" width="350" />
+<img src="https://github.com/tricia-sz/headphone-landing-page/blob/main/.gitassets/capa.png?raw=true" width="250" />
 
 ---
 
