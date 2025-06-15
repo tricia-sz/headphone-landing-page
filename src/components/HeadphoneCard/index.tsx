@@ -1,7 +1,7 @@
 import { Container } from "@/components/container"
 import Image from "next/image"
-import head1 from 'public/headphone1.jpeg'
-import head4 from 'public/headphone4.jpg'
+import head1 from "../../../public/headphone1.jpeg"
+
 
 
 
